@@ -14,11 +14,11 @@
   </a>
 </div>
 
-🔭 I’m currently working on opensource projects on **webscraping** and **analysis**
+🔭 I’m currently working on opensource projects on **Computer Vision** and **Machine Learning**
 
 🤔 I’m looking for help for learning more advance stuff realated with AI and Datscience
 
-📫 Working on **Data labelling** and **annoataions** for computer vision projects
+📫 Working on **Data labelling** and **annotaions** for computer vision projects
 
 ❤️ Uploading **Datascience and AI content** in mutiple social media networks
  
